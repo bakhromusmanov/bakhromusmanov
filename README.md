@@ -10,11 +10,6 @@
 - **iOS Development**: UIKit, SwiftUI, Core Data, Core Animation, ARKit, Core ML
 - **Tools**: Xcode, Git, SourceTree, Firebase, App Store Optimization, Unit Testing
 - **Methodologies**: Object-Oriented Programming, Design Patterns, MVC, SOLID Principles
-- **Experience**: 
-  - UI/UX Design
-  - Code Review
-  - Flight Test
-  - App Store Optimization
 
 ## 📚 Education
 - **Bachelor's Degree** in Computer and Information Engineering  
