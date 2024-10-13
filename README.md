@@ -1,13 +1,11 @@
 # Usmanov Bakhrom
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/bakhromusmanov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/bakhromusmanov)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-informational?logo=telegram)](https://t.me/bakhromusmanov)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/bakhromusmanov/)
 
 👋 Hi there! I am **Bakhrom Usmanov**, a passionate **iOS Developer** with a strong background in **Computer Science**. I have over 3 years of experience, specializing in **Swift**, **UIKit**, **SwiftUI**, and various other Cocoa Touch frameworks. I love building intuitive, high-quality apps and solving challenging technical problems.
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/bakhromusmanov)](https://leetcode.com/bakhromusmanov)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bakhromusmanov?ext=contest)
 ![](https://leetcard.jacoblin.cool/bakhromusmanov?ext=heatmap)
 
 ## 🚀 Skills & Tools
@@ -47,6 +45,3 @@
 [![Hit The Mark](https://github-readme-stats.vercel.app/api/pin/?username=bakhromusmanov&repo=hit-the-mark)](https://github.com/bakhromusmanov/hit-the-mark)
 [![Checklist Manager](https://github-readme-stats.vercel.app/api/pin/?username=bakhromusmanov&repo=checklist-manager)](https://github.com/bakhromusmanov/checklist-manager)
 
-## 📫 How to reach me
-- **Email**: bakhromusmanov01@gmail.com
-- **Location**: Tashkent, Uzbekistan
