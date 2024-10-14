@@ -23,7 +23,6 @@
 - [Learn Swift: Protocols and Generics](https://www.codecademy.com/profiles/bakhromusmanov/certificates/06701bd70b924e609fb25b4c21e7cd05)
 - [Learn Swift: Optionals](https://www.codecademy.com/profiles/bakhromusmanov/certificates/16bb92421ee84ff1b12a8b95745f5101)
 - [Learn Swift: Closures](https://www.codecademy.com/profiles/bakhromusmanov/certificates/801a04419de345bc999b7f4846159272)
-- [Learn Swift: Protocols and Generics](https://www.codecademy.com/profiles/bakhromusmanov/certificates/06701bd70b924e609fb25b4c21e7cd05)
 
 ## 💼 Work Experience
 ### Creative Designer at **Humans Group**  
