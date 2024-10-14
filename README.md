@@ -3,8 +3,6 @@
 
 👋 Hi there! I am **Bakhrom Usmanov**, a passionate **iOS Developer** with a strong background in **Computer Science**. I specialize in **Swift**, **UIKit**, **SwiftUI**, and various other Cocoa Touch frameworks. I love building intuitive, high-quality apps and solving challenging technical problems.
 
-[![Leetcode Heatmap](https://leetcard.jacoblin.cool/bakhromusmanov?ext=heatmap)](https://leetcode.com/bakhromusmanov)
-
 ## 🚀 Skills & Tools
 - **Languages**: Swift
 - **iOS Development**: UIKit, SwiftUI, Core Data, Core Animation, ARKit, Core ML
