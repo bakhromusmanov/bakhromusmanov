@@ -25,7 +25,7 @@
 - [Learn Swift: Closures](https://www.codecademy.com/profiles/bakhromusmanov/certificates/801a04419de345bc999b7f4846159272)
 
 ## 💼 Work Experience
-### Creative Designer at **Humans**  
+### Digital Designer at **Humans**  
 *Jul 2021 - Apr 2024*  
 - Designed and developed user interfaces for mobile applications, websites, and social media.
 - Worked on UI/UX design, creating visual assets for high-quality mobile experiences.
