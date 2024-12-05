@@ -5,9 +5,9 @@
 
 ## 🚀 Skills & Tools
 - **Languages**: Swift
-- **iOS Development**: UIKit, SwiftUI, Core Data, Core Animation, ARKit, Core ML
-- **Tools**: Xcode, Git, SourceTree, Firebase, App Store Optimization, Unit Testing
-- **Methodologies**: Object-Oriented Programming, MVVM, MVC Design Patterns, SOLID, KISS, DRY Principles
+- **iOS Development**: UIKit, SwiftUI, Core Data
+- **Tools**: Xcode
+- **Methodologies**: Object-Oriented Programming, MVVM, MVC Design Patterns
 
 ## 📚 Education
 - **Bachelor's Degree** in Computer and Information Engineering  
