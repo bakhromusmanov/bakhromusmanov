@@ -5,7 +5,7 @@
 
 ## 🚀 Skills & Tools
 - **Languages**: Swift
-- **iOS Development**: UIKit, SwiftUI, Core Data
+- **iOS Development**: UIKit, SwiftUI, Snapkit, CoreData
 - **Tools**: Xcode
 - **Methodologies**: Object-Oriented Programming, MVC
 
