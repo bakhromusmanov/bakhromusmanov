@@ -7,7 +7,7 @@
 - **Languages**: Swift
 - **iOS Development**: UIKit, SwiftUI, Core Data
 - **Tools**: Xcode
-- **Methodologies**: Object-Oriented Programming, MVVM, MVC Design Patterns
+- **Methodologies**: Object-Oriented Programming, MVC Design Patterns
 
 ## 📚 Education
 - **Bachelor's Degree** in Computer and Information Engineering  
